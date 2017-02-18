@@ -16,7 +16,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 // import 'jquery';
-var di = require("akala-corere");
+var di = require("akala-core");
 var debug = require("debug");
 var events_1 = require("events");
 var $ = require("underscore");
