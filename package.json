@@ -1,0 +1,15 @@
+{
+  "name": "@domojs/settings",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@akala/server": "^2.0.1-11"
+  },
+  "typings": "dist/index.d.ts"
+}
