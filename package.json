@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@akala/server": "^2.1.6"
+    "@akala/server": "^4.1.9"
   },
   "typings": "dist/index.d.ts"
 }
